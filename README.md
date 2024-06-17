@@ -4,4 +4,4 @@ I graduated from the VCU, the #1 public art program in the US. The artist progra
 
 - 🌱 Currently learning: Physical computing and ThreeJS
 - 🔨 Currently working on [a multiplayer ecological simulation game and an "input glove"](https://elijer.github.io/garden/Recurse/Projects)
-- 💻 Let's talk about: technology in the education system, WebGL, haskell, the crossover of game-experiences with the web, and human computer interaction, 
+- 💻 Let's talk about: technology in the education system, WebGL, haskell, and human computer interaction
