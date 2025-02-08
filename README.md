@@ -3,4 +3,4 @@ I started programming in 2015 as a humble JavaScript intern at a local startup. 
 
 - 🌱 Currently learning: Physical computing and multiplayer game networking
 - 🔨 Currently working on a [multiplayer ecological simulation game](https://elijer.github.io/garden/Projects/Eco-Mog) and an [input glove](https://elijer.github.io/garden/Projects/Gauntlet)
-- 💻 Let's talk about: technology in the education system, WebGL, Haskell, anything geospatial, and human-computer interaction
+- 💻 Let's talk about: anything geospatial/social, fliphones, game dev, spatial dimensions as web interface opportunities
